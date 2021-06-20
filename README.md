@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+I am a Computer Science student with a passion for tech.
+
+I am learning
+-------------
+- Node.JS
+- React.JS
+- C#
+
+I am going to learn
+-------------------
+- Angular
+- Java
+- C++
+- And lots more...
+
+Projects
+----------------
+[Eat That](https://eat-that.glitch.me/) - A roleplay game Discord bot
+
+
 <!--
 **jack-barr3tt/jack-barr3tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
