@@ -4,20 +4,20 @@ I am a Computer Science student with a passion for tech.
 
 I am learning
 -------------
-- Node.JS
-- React.JS
 - TypeScript
-- RegEx
+- React
+- NodeJS
+- Regex
 - C#
 
 I am going to learn
 -------------------
-- Angular
 - Java
 - C++
+- NextJS
+- RemixJS
 - Docker
-- Serverless
-- And lots more...
+- Kubernetes
 
 Projects
 ----------------
