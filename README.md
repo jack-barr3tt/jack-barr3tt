@@ -16,6 +16,8 @@ I am going to learn
 - C++
 - NextJS
 - RemixJS
+- Rust
+- Go
 - Docker
 - Kubernetes
 
