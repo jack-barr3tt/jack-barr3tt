@@ -4,15 +4,14 @@ I am a Computer Science student with a passion for tech.
 
 I am learning
 -------------
-- TypeScript
-- React
-- NodeJS
-- Regex
-- C#
+- NestJS
+- GraphQL
+- Jest
+- D3
+- Java
 
 I am going to learn
 -------------------
-- Java
 - C++
 - NextJS
 - RemixJS
