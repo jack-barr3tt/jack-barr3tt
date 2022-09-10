@@ -4,6 +4,7 @@ I am a Computer Science student with a passion for tech.
 
 I am learning
 -------------
+- Go
 - NestJS
 - GraphQL
 - Jest
@@ -14,9 +15,8 @@ I am going to learn
 -------------------
 - C++
 - NextJS
-- RemixJS
+- Kotlin
 - Rust
-- Go
 - Docker
 - Kubernetes
 
