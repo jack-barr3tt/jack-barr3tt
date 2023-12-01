@@ -1,27 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+- I'm Jack, a student and software engineer.
+- I am studying at [University of Southampton](https://www.southampton.ac.uk/)
+- I am building wonderful things at [Tabletop](https://www.tabletopgroup.co.uk/)
 
-I am a Computer Science student with a passion for tech.
+# Projects
+- [Eat That](https://eat-that.glitch.me/) - A roleplay game Discord bot
+- [rttapi](https://www.npmjs.com/package/rttapi) - Node.JS wrapper for the Realtime Trains API
 
-I am learning
--------------
-- C++
-- Docker
-- Go
-- NestJS
-- GraphQL
-- Jest
-- Java
-
-I am going to learn
--------------------
-- NextJS
-- Kotlin
-- Rust
-- D3
-- Kubernetes
-
-Public Projects
-----------------
-[Eat That](https://eat-that.glitch.me/) - A roleplay game Discord bot
-
-[rttapi](https://www.npmjs.com/package/rttapi) - Node.JS wrapper for the Realtime Trains API
+You can find me on [LinkedIn](https://www.linkedin.com/in/jack-barr3tt/)
