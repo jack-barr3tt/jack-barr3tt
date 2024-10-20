@@ -1,7 +1,6 @@
 # Hi there 👋
 - I'm Jack, a student and software engineer.
 - I am studying at [University of Southampton](https://www.southampton.ac.uk/)
-- I am a Software Engineering Intern at [Netcraft](https://www.netcraft.com/)
 
 # Projects
 - [Eat That](https://eat-that.glitch.me/) - A roleplay game Discord bot
