@@ -1,7 +1,8 @@
 # Hi there 👋
-- I'm Jack, a student and software engineer.
-- I am studying at [University of Southampton](https://www.southampton.ac.uk/)
-- I have worked at [Netcraft](https://www.netcraft.com) and [Tabletop](https://www.tabletopgroup.co.uk)
+- I'm Jack, a software engineer, logistics enthusiast, photographer/videographer and internet resident
+- I work at [Netcraft](https://www.netcraft.com) where I build tools to help locate and classify malicious things online
+- I previously worked at [Tabletop](https://www.tabletopgroup.co.uk) where I built a platform to help hospitality venues maximise revenue
+- I have a BSc in Computer Science from [University of Southampton](https://www.southampton.ac.uk/)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/jack-barr3tt/)
 
 # Projects
