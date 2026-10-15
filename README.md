@@ -4,7 +4,3 @@
 - I previously worked at [Tabletop](https://www.tabletopgroup.co.uk) where I built a platform to help hospitality venues maximise revenue
 - I have a BSc in Computer Science from [University of Southampton](https://www.southampton.ac.uk/)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/jack-barr3tt/)
-
-# Projects
-- [Eat That](https://eat-that.glitch.me/) - A roleplay game Discord bot
-- [rttapi](https://www.npmjs.com/package/rttapi) - Node.JS wrapper for the Realtime Trains API
